@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" modified="2022-03-15T01:48:26.335Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="O5U85O7KlBBdZgXFRQJe" version="17.1.2" type="github">
+  <diagram id="7P03pUdU4ZxSxd1Ntxhi" name="Page-1">
+    <mxGraphModel dx="1183" dy="-368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cmjOgoq02_saQ1-pklQZ-25" value="2" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1420" width="1140" height="1260" as="geometry" />
+        </mxCell>
+        <mxCell id="cmjOgoq02_saQ1-pklQZ-26" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;Page 1&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;labelBackgroundColor=#1A1A1A;labelBorderColor=none;" vertex="1" parent="cmjOgoq02_saQ1-pklQZ-25">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cmjOgoq02_saQ1-pklQZ-27" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;https://www.draw.io&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;labelBackgroundColor=#1A1A1A;labelBorderColor=none;" vertex="1" parent="cmjOgoq02_saQ1-pklQZ-25">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cmjOgoq02_saQ1-pklQZ-29" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;strokeColor=#999999;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontColor=none;" vertex="1" parent="cmjOgoq02_saQ1-pklQZ-25">
+          <mxGeometry y="190" width="1090" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cmjOgoq02_saQ1-pklQZ-31" value="Title 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=;labelBackgroundColor=#FFFFFF;labelBorderColor=none;" vertex="1" parent="cmjOgoq02_saQ1-pklQZ-25">
+          <mxGeometry x="35" y="270" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cmjOgoq02_saQ1-pklQZ-32" value="Title 2" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=;labelBackgroundColor=#FFFFFF;labelBorderColor=none;" vertex="1" parent="cmjOgoq02_saQ1-pklQZ-25">
+          <mxGeometry x="10" y="680" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cmjOgoq02_saQ1-pklQZ-35" value="Picture" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontColor=none;" vertex="1" parent="cmjOgoq02_saQ1-pklQZ-25">
+          <mxGeometry x="10" y="440" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="cmjOgoq02_saQ1-pklQZ-39" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontColor=none;" vertex="1" parent="cmjOgoq02_saQ1-pklQZ-25">
+          <mxGeometry x="10" y="780" width="1040" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="cmjOgoq02_saQ1-pklQZ-40" value="TEXT 2: BATTLE OF THE SOMME" style="text;spacingTop=-5;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontColor=none;" vertex="1" parent="cmjOgoq02_saQ1-pklQZ-25">
+          <mxGeometry x="20" y="790" width="1020" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="cmjOgoq02_saQ1-pklQZ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#1A1A1A;fontColor=none;" edge="1" parent="cmjOgoq02_saQ1-pklQZ-25" source="cmjOgoq02_saQ1-pklQZ-40" target="cmjOgoq02_saQ1-pklQZ-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cmjOgoq02_saQ1-pklQZ-42" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontColor=none;" vertex="1" parent="cmjOgoq02_saQ1-pklQZ-25">
+          <mxGeometry x="10" y="310" width="1050" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cmjOgoq02_saQ1-pklQZ-43" value="TEXT 1: BATTLE OF VERDUN" style="text;spacingTop=-5;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontColor=none;" vertex="1" parent="cmjOgoq02_saQ1-pklQZ-25">
+          <mxGeometry x="20" y="310" width="1040" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="cmjOgoq02_saQ1-pklQZ-45" value="Picture" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontColor=none;" vertex="1" parent="cmjOgoq02_saQ1-pklQZ-25">
+          <mxGeometry x="10" y="940" width="130" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
